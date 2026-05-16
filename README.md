@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there, I'm Kenza! 👋
+🌱 I’ve recently started my coding journey! I'm currently focused on building websites and learning how the web works behind the scenes.
 
-<!--
-**Kenza1code/Kenza1code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages & Tools I'm Working With:
+Front-End: HTML, CSS, JavaScript
+Back-End: PHP
+Database: MySQL
+- My Goals:
+Build full-stack web applications
+Write clean and efficient code
+Keep learning and growing as a developer
+- How to reach me?
+Feel free to connect with me!
+"Every expert was once a beginner." - Keep coding! 💻
