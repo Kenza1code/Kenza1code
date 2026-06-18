@@ -11,4 +11,4 @@ Write clean and efficient code
 Keep learning and growing as a developer
 - How to reach me?
 Feel free to connect with me!
-"Every expert was once a beginner." - Keep coding! 💻
+"Every expert was once a beginner." - Keep coding!
